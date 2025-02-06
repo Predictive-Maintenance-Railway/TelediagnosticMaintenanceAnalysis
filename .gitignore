@@ -167,3 +167,9 @@ TSR_040/**/*.csv
 *.parquet
 
 csv_dataset_TSR/*.csv
+
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
