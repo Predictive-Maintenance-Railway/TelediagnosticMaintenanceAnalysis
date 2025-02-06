@@ -1,0 +1,2 @@
+in questa directory bisogna inserire i file Excel dei servizi dei treni
+esempio: servizi TSR 40.xlsx
