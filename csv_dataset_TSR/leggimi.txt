@@ -1,0 +1,4 @@
+in questa cartella sono contenuti i file csv dei treni TSR 
+nota sostinire nel nome lo spazio va sostituito  con "_"
+TSR_017.csv  TSR_033.csv  TSR_064.csv  TSR_086.csv
+TSR_008.csv  TSR_020.csv  TSR_040.csv  TSR_059.csv      TSR_070.csv
