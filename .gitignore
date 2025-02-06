@@ -173,3 +173,5 @@ csv_dataset_TSR/*.csv
 *.prj
 *.shp
 *.shx
+*.csv
+*.xlsx
